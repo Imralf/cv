@@ -7,7 +7,7 @@ export const RESUME_DATA: ResumeData = {
   locationLink: "https://www.google.com/maps/place/Santo+Domingo",
   about: "Data Analyst with procurement background, optimizing decisions through analytics.",
   summary:
-    "Data Analyst with experience in procurement analysis and process optimization. Skilled in Python, SQL, and Power BI, developing data-driven solutions that transform business information into actionable strategies.",
+    "Data Analyst with experience in procurement analysis and process optimization. Skilled in Excel, SQL, Power BI and Python, developing data-driven solutions that transform business information into actionable strategies.",
   avatarUrl: "https://avatars.githubusercontent.com/u/121272791?s=400&u=be74eb4b85a3f057931e05ca3fe5f656eae27692&v=4",
   personalWebsiteUrl: "",
   contact: {
