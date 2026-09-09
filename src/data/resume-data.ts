@@ -21,7 +21,7 @@ export const RESUME_DATA: ResumeData = {
       },
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/rafael-perez77/",
+        url: "https://www.linkedin.com/in/imralf/",
         icon: "linkedin",
       },
     ],
